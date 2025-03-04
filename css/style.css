@@ -455,6 +455,9 @@ header .nonee {
  header .logo img{
      width: 100%;
  }
+ header .col-c-12{
+    display: none;
+ }
 header .col-b-4 button{
      display: block;
      float: right;
